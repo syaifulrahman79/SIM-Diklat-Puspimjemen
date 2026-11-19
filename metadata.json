@@ -1,0 +1,8 @@
+{
+  "name": "SIM-DIKLAT Puspimjemenhan Kemhan",
+  "description": "Sistem Informasi Manajemen Diklat Pusat Kepemimpinan dan Manajemen Pertahanan (Puspimjemenhan) Badiklat Kemhan RI TA 2027",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
